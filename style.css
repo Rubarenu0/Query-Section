@@ -1,0 +1,13 @@
+.section{
+    border: 1px solid black;
+    height: 440px;
+    width: 70%;
+    margin:100px 0px 0px 200px;
+    padding: 30px;
+}
+h1{
+    padding-bottom: 20px;
+}
+body{
+    background-color: aquamarine;
+}
